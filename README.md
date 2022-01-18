@@ -12,15 +12,27 @@ Now, I am able to
 • Build and train Recurrent Neural Networks and its variants (GRUs, LSTMs), apply RNNs to character-level language modeling, work with NLP and Word Embeddings, and use HuggingFace tokenizers and transformers to perform Named Entity Recognition and Question Answering.
 
 ## SKILLS GAINED
+
 Artificial Neural Network
+
 Convolutional Neural Network
+
 Tensorflow
+
 Recurrent Neural Network
+
 Transformers
+
 Deep Learning
+
 Backpropagation
+
 Python Programming
+
 Neural Network Architecture
+
 Mathematical Optimization
+
 hyperparameter tuning
+
 Inductive Transfer
