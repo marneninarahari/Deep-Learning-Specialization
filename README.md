@@ -1,3 +1,5 @@
+# Due to non-disclosure agreement, I am not able to post the worked lab assignments. However, the following are the details of the specialization.
+
 # Deep-Learning-Specialization
 https://www.coursera.org/specializations/deep-learning
 
